@@ -11,12 +11,12 @@ import re
 
 
 # SETTING PAGE CONFIGURATIONS
-icon = Image.open(r"C:\Users\sathi\Downloads\document-icon-36543.png")
-st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By ` SATHISH KUMAR `",
+icon = Image.open(r"C:\Users\varsha\Downloads\document-icon-36543.png")
+st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By ` VARSHA `",
                    page_icon=icon,
                    layout="wide",
                    initial_sidebar_state="expanded",
-                   menu_items={'About': """# This OCR app is created by `SATHISH!`"""})
+                   menu_items={'About': """# This OCR app is created by `VARSHA!`"""})
 
 st.markdown("<h1 style='text-align: center; color: green;'>BizCardX: Extracting Business Card Data with OCR</h1>",unsafe_allow_html=True)
 
