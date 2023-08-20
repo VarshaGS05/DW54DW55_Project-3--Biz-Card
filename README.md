@@ -1,5 +1,12 @@
 # DW54DW55_Project-3--Biz-Card
 
+NAME : Varsha GS
+
+BATCH: DW54DW55
+
+DOMAIN : DATA SCIENCE
+
+Lanuage & Tool used: Python mongoDB pandas postgreSQL
 
 # BizCardX-Extracting Business Card Data with OCR
 
